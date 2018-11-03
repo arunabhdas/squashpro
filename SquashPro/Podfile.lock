@@ -1,0 +1,42 @@
+PODS:
+  - AFNetworking (2.5.0):
+    - AFNetworking/NSURLConnection (= 2.5.0)
+    - AFNetworking/NSURLSession (= 2.5.0)
+    - AFNetworking/Reachability (= 2.5.0)
+    - AFNetworking/Security (= 2.5.0)
+    - AFNetworking/Serialization (= 2.5.0)
+    - AFNetworking/UIKit (= 2.5.0)
+  - AFNetworking/NSURLConnection (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.0)
+  - AFNetworking/Security (2.5.0)
+  - AFNetworking/Serialization (2.5.0)
+  - AFNetworking/UIKit (2.5.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - ECSlidingViewController (2.0.3)
+  - JSONModel (1.0.1)
+  - RKCardView (0.1.0)
+  - TGLStackedViewController (1.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - ECSlidingViewController (~> 2.0.3)
+  - JSONModel
+  - RKCardView
+  - TGLStackedViewController (~> 1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 0f54cb5d16ce38c1b76948faffb8d5fb705021c7
+  ECSlidingViewController: e79fe856bfb1a99a39c995377a1943e50f7647eb
+  JSONModel: 634100aaacbd89811bc8a03da209356e5989c569
+  RKCardView: bb96e9288f1ccc34468a2d52c5f83bcf58a506ee
+  TGLStackedViewController: 086345805dfdc521fe3a9e17f77858a2feb36b68
+
+COCOAPODS: 0.35.0

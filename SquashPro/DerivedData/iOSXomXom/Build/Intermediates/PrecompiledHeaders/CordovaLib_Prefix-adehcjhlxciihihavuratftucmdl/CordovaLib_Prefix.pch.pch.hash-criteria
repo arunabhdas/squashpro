@@ -1,0 +1,22 @@
+-x
+objective-c
+-arch
+armv7
+-std=c99
+-fobjc-arc
+-fpascal-strings
+-O0
+-isysroot
+/Users/coder/Developer/Xcode/Xcode_6_1_1/Xcode_6_1_1.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS8.1.sdk
+-g
+-miphoneos-version-min=6.0
+-iquote
+-iquote
+-I/Users/coder/repos/jamdeo/iOSXomXom/DerivedData/iOSXomXom/Build/Products/Debug-iphoneos/include
+-I/Users/coder/Developer/Xcode/Xcode_6_1_1/Xcode_6_1_1.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+-F/Users/coder/repos/jamdeo/iOSXomXom/DerivedData/iOSXomXom/Build/Products/Debug-iphoneos
+-DDEBUG
+arm-apple-darwin14.0.0
+"4.2.1 Compatible Apple LLVM 6.0 (clang-600.0.56)"
+SDK_PRODUCT_BUILD_VERSION=12B411
+12B411

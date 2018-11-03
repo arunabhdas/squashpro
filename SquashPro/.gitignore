@@ -1,0 +1,20 @@
+KnowRoaming.xcodeproj/xcuserdata
+KnowRoaming.xcodeproj/project.xcworkspace
+.xcuserstate
+.xcbkptlist
+.xschememanagement.plist
+.xcscheme
+*.xcuserstate
+*.xcbkptlist
+
+# Infer
+build/*
+Pods/infer-out/*
+infer-out/*
+infer-out/*
+build/*
+Pods/infer-out/*
+Pods/
+
+# System-specific Files #
+.DS_Store
